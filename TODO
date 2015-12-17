@@ -1,0 +1,12 @@
+MAIN: Try using PF_PACKET (so ip works with wrong checksums)
+      breaks if -d and -f specified
+
+ALL
+- DNS
+- ARP
+- IPX (if I can find the spec)
+- bugfixes
+- ncurses and/or X interface
+- random packet data
+- allow comments in packet data files
+- script to automatically frag packets (John Deatherage <Jdeatherage@CQOS.COM>)
