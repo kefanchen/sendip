@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<dlfcn.h>
 
-#define LIB_CACULATE_PATH "./libcaculate.so"
+#define LIB_CACULATE_PATH "./libcaculate"
 
 //complie with gcc -rdynamic -o    -ldl
 

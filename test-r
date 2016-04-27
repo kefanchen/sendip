@@ -1,0 +1,17 @@
+Added 26 options
+Initializing module ./ipv4.so
+Initializing module ./udp.so
+Finalizing module ./udp.so
+Finalizing module ./ipv4.so
+Final packet data:
+45 00 00 21   E..!
+38 AF 00 00   8...
+FF 11 C2 EE   ....
+2E 4A 18 57   .J.W
+4C BE 2C CF   L.,.
+52 26 64 59   R&dY
+00 0D 45 54   ..ET
+68 65 6C 6C   hell
+6F   o
+Freeing module ./ipv4.so
+Freeing module ./udp.so
